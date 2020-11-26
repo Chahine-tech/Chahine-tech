@@ -29,6 +29,6 @@
 <br />
 <br />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chahine-techT&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chahine-tech&show_icons=true&hide_border=true" />
 
 
