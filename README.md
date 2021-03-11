@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Im looking for an internship for march (2 months)
-- 🥅 2021 Goals: Learn HTML - CSS - REACT - NODEJS
+- 🥅 2021 Goals: Learn HTML - CSS - REACT/NATIVE - NODEJS/EXPRESS
 
 
 
