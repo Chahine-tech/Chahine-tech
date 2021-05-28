@@ -47,7 +47,7 @@ Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
 <br>
 <br>
 <br>
-### 📈 My GitHub Stats
+📈 My GitHub Stats
 <br>
 <br>
 
