@@ -9,12 +9,9 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
 <br />
 
 Hello my name is chahine, I am a junior developer. I'm a student at Efrei paris in bachelor Concepteur Développeur Global Programming.
-
-
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -46,7 +43,4 @@ Hello my name is chahine, I am a junior developer. I'm a student at Efrei paris 
 
 
 <br />
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahine-tech&show_icons=true&locale=en" alt="chahine-tech" /></p>
