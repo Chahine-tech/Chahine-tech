@@ -50,6 +50,3 @@ Hello my name is chahine, I am a junior developer. I'm a student at Efrei paris 
 📈 My GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahine-tech&show_icons=true&locale=en" alt="chahine-tech" /></p>
-
-
-
