@@ -12,7 +12,7 @@
 
 
 <br />
-
+Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -36,9 +36,9 @@
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆            
-🌸             
-✅             
-⏳  
+🌸  Nodejs/Express           
+✅         
+⏳  Learn Tailwind css
 <!-- TODO-IST:END -->
 
 
