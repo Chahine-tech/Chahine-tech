@@ -19,7 +19,7 @@ Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 NodeJs/Express/Prisma
-- 📝 Learn Tailwind css
+- 📝 Learn Tailwind css and shopify
 - 🔭 I am learning code with Grafikart and Mosh
 
 <br>
