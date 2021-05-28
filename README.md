@@ -18,7 +18,7 @@ Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 
-- 📝 
+- 📝 Learn Tailwind css
 
 **Languages and Tools:**  
 
@@ -31,15 +31,6 @@ Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics//.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  Javascript          
-🌸  Nodejs/Express           
-✅  Visual code       
-⏳  Learn Tailwind css
-<!-- TODO-IST:END -->
-
 
 📈 My GitHub Stats
 
