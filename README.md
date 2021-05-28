@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chahine</h1>
 <h3 align="center">I'm a Student, Developer in Efrei Paris !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chahine-tech&label=Profile%20views&color=0e75b6&style=flat" alt="chahine-tech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chahine-tech" alt="chahine-tech" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/cbenlahcen" target="blank"><img src="https://img.shields.io/twitter/follow/cbenlahcen?logo=twitter&style=for-the-badge" alt="cbenlahcen" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cbenlahcen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="cbenlahcen" height="30" width="40" /></a>
