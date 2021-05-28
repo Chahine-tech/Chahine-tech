@@ -35,9 +35,9 @@ Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆            
+🏆  Javascript          
 🌸  Nodejs/Express           
-✅         
+✅  Visual code       
 ⏳  Learn Tailwind css
 <!-- TODO-IST:END -->
 
