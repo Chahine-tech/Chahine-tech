@@ -44,7 +44,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahine-tech&" alt="chahine-tech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahine-tech&show_icons=true&locale=en" alt="chahine-tech" /></p>
 
 
 
