@@ -18,7 +18,7 @@ Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 NodeJs/Express/Prisma
+- 📫 NodeJs/Express/React/Nextjs
 - 📝 Learn Tailwind css and shopify
 - 🔭 I am learning code with Grafikart and Mosh
 
