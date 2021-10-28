@@ -14,6 +14,8 @@
 
 Hi, I'm Chahine Benlahcen, I am a student at the efrei school.
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/366670764939804672
+                            )](https://discord.com/users/366670764939804672)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
